@@ -1,7 +1,7 @@
 ﻿  main.cpp
   Gerando código
-  17 of 305 functions ( 5.6%) were compiled, the rest were copied from previous compilation.
-    5 functions were new in current compilation
+  1 of 321 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
     1 functions had inline decision re-evaluated but remain unchanged
   Finalizada a geração de código
-  Video-Processing.vcxproj -> E:\Video-Processing\x64\Release\Video-Processing.exe
+  Video-Processing.vcxproj -> C:\Users\cepht\Documents\Video-Processing\x64\Release\Video-Processing.exe
